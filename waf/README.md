@@ -1,6 +1,6 @@
 # MISC-waf
 
-#Description#
+*Description*
 
 This repository provide all the configuration and scripts described in the MISC (May 2019) French Magazine regarding ModSecurity deployment.
 
