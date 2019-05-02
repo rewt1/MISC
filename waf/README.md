@@ -2,7 +2,7 @@
 
 *Description*
 
-This repository provide all the configuration and scripts described in the MISC (May 2019) French Magazine regarding ModSecurity deployment.
+This repository provides all the configuration and scripts described in the MISC (May 2019) French Magazine regarding ModSecurity deployment.
 
 **Directories content**
 - The *etc/* contains configuration files described (bigcorp.ch.conf, waf-bigcorp.ch.conf, 00-crs-setup.conf etc.)
